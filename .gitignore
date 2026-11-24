@@ -1,0 +1,16 @@
+# --- LocalSync_Utility ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# runtime state
+*.log
+*.sync-conflict*
+
+# editors
+.idea/
+.vscode/
+*.swp
+*~
